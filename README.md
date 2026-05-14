@@ -1,4 +1,4 @@
-<img width="800" height="500" alt="download" src="https://github.com/user-attachments/assets/e1f5e55c-938c-4ebf-a221-50d8bce81903" />
+<img width="1000" height="414" alt="download" src="https://github.com/user-attachments/assets/e1f5e55c-938c-4ebf-a221-50d8bce81903" />
 <br></br>
 <p style="color-text: blue;"> 𝕸𝖞 𝖛𝖎𝖘𝖎𝖔𝖓 𝖔𝖋 𝖙𝖍𝖊 𝖎𝖓𝖙𝖊𝖗𝖓𝖊𝖙 </p>
 <br></br>
